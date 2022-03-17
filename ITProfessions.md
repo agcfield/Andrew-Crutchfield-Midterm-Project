@@ -1,3 +1,11 @@
+## Pages:
+
+1. [Homepage](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/README.md)
+2. [IT Professions](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/ITProfessions.md)
+3. [Python Progression](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/PythonProgression.md)
+4. [Movie Recommendations](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/MovieRecommendations.md)
+5. [How to Tie a Shoe](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/HowToTieAShoe.md)
+
 # IT Professions
 
 ![alt image](https://centriq.com/wp-content/uploads/2018/01/The-Office-Weird-IT-Nerd-2-600x338.png)

@@ -1,3 +1,11 @@
+## Pages:
+
+1. [Homepage](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/README.md)
+2. [IT Professions](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/ITProfessions.md)
+3. [Python Progression](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/PythonProgression.md)
+4. [Movie Recommendations](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/MovieRecommendations.md)
+5. [How to Tie a Shoe](https://github.com/agcfield/Andrew-Crutchfield-Midterm-Project/blob/main/HowToTieAShoe.md)
+
 # Python Progression
 
 Along with this class (INFOTC 1000), I am also simultaneously taking INFOTC 1040, in which I have developed a knowledge of Python that is far superior to my knowledge of JavaScript. The purpose of this page is to show how my skills with Python have developed overtime, by showing one of my first Python programs, and comparing it to my most recent one.

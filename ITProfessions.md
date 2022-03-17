@@ -1,9 +1,9 @@
 # IT Professions
 
-![alt image](https://careertechnical.edu/wp-content/uploads/2019/09/IT-Professional-Reasons.jpg)
+![alt image](https://centriq.com/wp-content/uploads/2018/01/The-Office-Weird-IT-Nerd-2-600x338.png)
 
 For this midterm project, I thought it would be appropriate to dedicate at least one markdown page to content that is relevant to this class. Therefore, this page is dedicated to *different* professions within the field of IT and information about them.
-### List of Occupations
+## List of Occupations
 
 The following is a list of the four **highest** paying IT professions according to the [U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/home.htm) website. Click [here](https://comptiacdn.azureedge.net/webcontent/images/default-source/researchreports/it-industry-outlook-2022/report-chart-1_tech-occupation-employment-outlook.jpg?sfvrsn=f9a0f5e7_2) to see a graph showing projected employment growth for tech occupations.
 
@@ -12,7 +12,7 @@ The following is a list of the four **highest** paying IT professions according 
 3. Software Developers, Quality Assurance Analysts, and Testers.
 4. Information Security Analyst
 
-### Example of JavaScript Code
+## Example of JavaScript Code
 
 To demonstrate what *I* have learned so far in my IT education, here is a **very** simple JavaScript program that will print all of the even numbers appearing in a range of 1-100.
 
